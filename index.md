@@ -3,12 +3,12 @@ layout: home
 sidebar: false
 
 title: 黄海波
-titleTemplate: 记录回忆，知识和畅想的地方
+titleTemplate: 随便写写，随便做做，博客就这么回事儿
 
 hero:
   name: 黄海波
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 黄海波 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  text: 随便写写，随便做做，博客就这么回事儿
+  tagline: 这里是 黄海波 的程序分享站，主要是分享一些常用的工具软件以及自己做的工具软件，偶尔也做一些笔记🐼
   image:
     src: /logo.svg
     alt: Vitest
