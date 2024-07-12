@@ -17,8 +17,8 @@ hero:
       text: 开始阅读
       link: /笔记/index
     - theme: alt
-      text: 💽常用软件
-      link: 笔记\💽常用软件
+      text: 🛞我的程序
+      link: /笔记/💽常用软件/🛞我的程序/后期辅助工具.md
     - theme: alt
       text: GitHub 上浏览
       link: https://github.com/nolebase/nolebase
