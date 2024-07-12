@@ -1,7 +1,7 @@
 /** 文本 */
-export const siteName = '黄海波'
-export const siteShortName = '黄海波'
-export const siteDescription = '记录回忆，知识和畅想的地方'
+export const siteName = '这波真帅'
+export const siteShortName = '这波真帅'
+export const siteDescription = '随便写写，随便做做，博客就这么回事儿'
 
 /** 文档所在目录 */
 export const include = ['笔记', '生活']
