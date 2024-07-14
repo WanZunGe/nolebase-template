@@ -3,11 +3,11 @@ layout: home
 sidebar: false
 
 title: 这波真帅
-titleTemplate: 随便写写，随便做做，博客就这么回事儿
+titleTemplate: 随便写写，随便弄弄，博客就这么回事儿
 
 hero:
   name: 这波真帅
-  text: 随便写写，随便做做，博客就这么回事儿
+  text: 随便写写，随便弄弄，博客就这么回事儿
   tagline: 这里是 这波真帅 的程序分享站，主要是分享一些常用的工具软件以及自己做的工具软件，偶尔也做一些笔记🐼
   image:
     src: /logo.svg
